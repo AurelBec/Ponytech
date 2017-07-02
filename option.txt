@@ -1,0 +1,6 @@
+10	1	15	#mob_nb_x
+4	1	6	#mob_nb_y
+4	1	4	#difficulte
+0	0	1	#son
+n
+
